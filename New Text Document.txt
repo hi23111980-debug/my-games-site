@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>موقع تحميل ألعاب</title>
+  <style>
+    body {
+      font-family: Arial;
+      background-color: #111;
+      color: white;
+      text-align: center;
+    }
+    .game {
+      background-color: #222;
+      padding: 20px;
+      margin: 20px auto;
+      width: 300px;
+      border-radius: 10px;
+    }
+    a {
+      display: inline-block;
+      padding: 10px 15px;
+      background: green;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>🎮 موقع تحميل الألعاب</h1>
+
+<div class="game">
+  <h2>اسم اللعبة</h2>
+  <p>وصف بسيط للعبة</p>
+  <a href="#">تحميل اللعبة</a>
+</div>
+
+</body>
+</html>
